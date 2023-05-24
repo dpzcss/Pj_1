@@ -1,2 +1,6 @@
-2023/05/23-20:41:17.014 5d40 Creating DB C:/Users/dream/Documents/Unreal Projects/Pj_1/Pj_1/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2023/05/23-20:41:17.027 5d40 Reusing MANIFEST C:/Users/dream/Documents/Unreal Projects/Pj_1/Pj_1/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2023/05/23-23:58:33.432 ad9c Reusing MANIFEST C:/Users/dream/Documents/Unreal Projects/Pj_1/Pj_1/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2023/05/23-23:58:33.434 ad9c Recovering log #3
+2023/05/23-23:58:33.435 ad9c Reusing old log C:/Users/dream/Documents/Unreal Projects/Pj_1/Pj_1/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2023/05/24-00:06:15.216 ae90 Level-0 table #5: started
+2023/05/24-00:06:15.221 ae90 Level-0 table #5: 13731 bytes OK
+2023/05/24-00:06:15.225 ae90 Delete type=0 #3
